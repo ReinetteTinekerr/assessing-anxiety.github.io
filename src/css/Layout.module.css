@@ -1,0 +1,15 @@
+.background {
+  background-image: url("../assets/background/animated.svg");
+  height: 90%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  display: grid;
+  place-items: center;
+  position: fixed;
+  left: 1px;
+}
+
+.mainContainer {
+}
