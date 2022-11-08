@@ -50,7 +50,7 @@ export default function SignIn() {
   const handleSubmit = (event) => {
     event.preventDefault();
     const data = new FormData(event.currentTarget);
-    const email = data.get("email");
+    const email = data.get("email").toLowerCase();
     const password = data.get("password");
     signIn({ email, password }).then((res) => {
       console.log(res);
