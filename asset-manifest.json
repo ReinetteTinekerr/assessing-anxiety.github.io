@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/assessing-anxiety.github.io/static/css/main.eae0fa2a.css",
+    "main.js": "/assessing-anxiety.github.io/static/js/main.f5763055.js",
+    "static/media/animated.svg": "/assessing-anxiety.github.io/static/media/animated.fb4a64c5c774cb6b4daa.svg",
+    "index.html": "/assessing-anxiety.github.io/index.html",
+    "main.eae0fa2a.css.map": "/assessing-anxiety.github.io/static/css/main.eae0fa2a.css.map",
+    "main.f5763055.js.map": "/assessing-anxiety.github.io/static/js/main.f5763055.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eae0fa2a.css",
+    "static/js/main.f5763055.js"
+  ]
+}
